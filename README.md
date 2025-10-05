@@ -1,16 +1,8 @@
 # **Are you happy today?**
 
-Human-Centered AI | User Studies | Experimental Design | LLM evaluation | Machine Learning
-
----
+**Human-Centered AI | User Studies | Experimental Design | LLM evaluation | Machine Learning**
 
 I am Emmanuel Adeloju, a third-year PhD student in the Learning Literacies and Technologies program at Arizona State University, where I am advised by Dr. Michelle Jordan and Dr. Punya Mishra. My research examines how educators facilitate how students interact with Large Language Models in authentic K-12 science learning contexts, with a focus on AI-mediated data sensemaking. Through mixed-methods user studies, I investigate how teachers develop expertise in facilitating student use of LLMs, translating their pedagogical reflections into evaluation frameworks that assess model performance beyond traditional benchmarks. My work bridges human-computer interaction and LLM evaluation research by examining trust, interpretability, and usability of LLM systems through the lens of domain experts (teachers) who guide novice users (students) in high-stakes educational environments. This research contributes to understanding how humans collaborate with AI tools, how practitioners develop quality criteria for AI outputs in specialized domains, and how to design responsible AI systems that align with pedagogical goals and support meaningful learning.
-
----
-
-## Contact
-
-📧 eadeloju [at] asu.edu | [Website](#) | [LinkedIn](https://linkedin.com/in/emmanueladeloju)
 
 ---
 
@@ -34,27 +26,27 @@ Osun State University, Nigeria
 
 ## Technical Skills
 
-**Research Methods:** Mixed methods research design, usability testing, contextual inquiry, survey design and validation, experimental design, statistical analysis, LLM evaluations and metrics, thematic analysis, comparative case studies
+- **Research Methods:** Mixed methods research design, usability testing, contextual inquiry, survey design and validation, experimental design, statistical analysis, LLM evaluations and metrics, thematic analysis, comparative case studies
 
-**Data Analysis & ML:** Python (Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, PyTorch), R, SPSS, statistical modeling, machine learning for data validation, linear regression, multivariate analysis
+- **Data Analysis & ML:** Python (Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, PyTorch), R, SPSS, statistical modeling, machine learning for data validation, linear regression, multivariate analysis
 
-**Development:** HTML, CSS, Figma, data visualization, survey instrument design
+- **Development:** HTML, CSS, Figma, data visualization, survey instrument design
 
 ---
 
 ## Latest Projects
 
 ### Optimization Methods in Support Vector Machines (from scratch)
-Implemented and benchmarked primal vs. dual SVM formulations on high-dimensional data (784 features); evaluated hard-margin and soft-margin variants with regularization tuning (C = 1, 3, 5) to analyze generalization performance and kernel methods (Gaussian RBF) for non-linear decision boundaries
+- Implemented and benchmarked primal vs. dual SVM formulations on high-dimensional data (784 features); evaluated hard-margin and soft-margin variants with regularization tuning (C = 1, 3, 5) to analyze generalization performance and kernel methods (Gaussian RBF) for non-linear decision boundaries
 
 ### Bias-Variance Analysis in k-Nearest Neighbor Classification (from scratch)
-Systematically evaluated k-NN performance across neighborhood sizes (k = 1, 3, 5, 7) to quantify bias-variance trade-off; analyzed overfitting patterns through training vs. test error comparison and implemented kernel-based k-NN extensions
+- Systematically evaluated k-NN performance across neighborhood sizes (k = 1, 3, 5, 7) to quantify bias-variance trade-off; analyzed overfitting patterns through training vs. test error comparison and implemented kernel-based k-NN extensions
 
 ### Convergence Properties of Online Learning Algorithms (from scratch)
-Analyzed Perceptron algorithm convergence under varying stopping criteria (80% vs. 95% accuracy thresholds) and learning rates (α = 0.15); evaluated impact of linear separability assumptions on classification performance in iterative weight update frameworks
+- Analyzed Perceptron algorithm convergence under varying stopping criteria (80% vs. 95% accuracy thresholds) and learning rates (α = 0.15); evaluated impact of linear separability assumptions on classification performance in iterative weight update frameworks
 
 ### Bayesian Decision Theory and Probabilistic Classifiers (from scratch)
-Derived MAP decision rules from Bayes' theorem using continuous probability distributions (Gaussian likelihoods); compared generative (Bayesian) vs. discriminative (SVM, Perceptron) classification approaches, analyzing the role of priors and class-conditional distributions in optimal decision boundaries
+- Derived MAP decision rules from Bayes' theorem using continuous probability distributions (Gaussian likelihoods); compared generative (Bayesian) vs. discriminative (SVM, Perceptron) classification approaches, analyzing the role of priors and class-conditional distributions in optimal decision boundaries
 
 ---
 
