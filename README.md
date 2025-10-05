@@ -51,7 +51,7 @@ Osun State University, Nigeria
 ## Research Experience
 
 ### Ongoing Dissertation Research: LLM for Data Sensemaking in K-12 Education
-- Designing and conducting a longitudinal mixed-methods study on LLM use for data sensemaking in K-12 education, including user research, surveys, co-design sessions, and reflection journals to examine trust, usability, interpretability, and human-AI collaboration.
+- Designing and conducting a longitudinal mixed-methods study on LLM use for data sensemaking in K-12 education, including user research, surveys, co-design sessions, and LLM output evaluation to examine trust, usability, interpretability, and human-AI collaboration.
 - Developing AI evaluation methodology and validation protocols translating domain expert insights into performance criteria, aligned with the TPACK framework, to inform facilitation strategies.
 
 ### Program and Research Data Analyst
