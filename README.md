@@ -88,6 +88,17 @@ Osun State University, Nigeria
 
 ---
 
+## Selected Awards
+
+### 2025 Mary Lou Fulton Endowment Scholarship (MLFC Travel Award)
+- Awarded to support travel and presentation at a conference of choice
+
+### Graduate Support Award (2025)
+- Granted in recognition of remarkable dedication and invaluable contributions as a
+member of the ASU community
+
+---
+
 ## Selected Publications & Presentations
 
 **Adeloju, E.**, Jordan, M., & Meza-Torres, C. (2025, February 21). *Machine Learning for Validating Citizen Science Data: A Case Study with High School Students in Agri-Photovoltaics Project in the Sonoran Desert Region* [Conference presentation]. The Doctoral Council at the Teachers College (TCDC) Conference, Tempe, AZ, United States.
