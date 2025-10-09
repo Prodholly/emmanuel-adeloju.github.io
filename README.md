@@ -98,9 +98,9 @@ Jordan, M., Weinberg, A., **Adeloju, E.**, & Oster, N. (2024, Nov). *Formative A
 
 ---
 
-## Relevant Coursework
+## Latest Coursework
 
-**EE 549: Statistical Machine Learning – Theory to Practice** | *Fall 2025*  
+**EE 549: Statistical Machine Learning – Theory to Practice**  
 Supervised learning (classification, regression, SVM, k-NN), unsupervised learning (k-means, EM), reinforcement learning (Q-learning, deep Q-networks), experimental design, model evaluation
 
 **PAF 513: Foundations of Data Science** (in R programming)
