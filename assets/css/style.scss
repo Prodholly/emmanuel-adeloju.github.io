@@ -23,14 +23,16 @@ section {
   width: calc(100% - 280px);
   float: right;
   padding-right: 30px;
-  margin-left: 280px;
+  padding-left: 20px;
+  margin-left: 260px;
 }
 
 /* Full-width content for research page */
 body.research-page section {
-  width: calc(100% - 300px);
+  width: calc(100% - 290px);
   max-width: none;
-  margin-left: 300px;
+  margin-left: 270px;
+  padding-left: 20px;
   padding-right: 40px;
 }
 
