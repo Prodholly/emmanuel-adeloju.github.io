@@ -39,7 +39,9 @@ body.research-page section {
 /* Make images responsive within the wider content */
 body.research-page img {
   max-width: 100%;
+  width: 100%;
   height: auto;
+  display: block;
 }
 
 /* Ensure text flows nicely in wider layout */
