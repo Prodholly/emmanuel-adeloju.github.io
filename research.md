@@ -36,7 +36,7 @@ permalink: /research/
 
 <h1 class="research-title">LLM-Mediated Data Sensemaking: Exploring Teachers' Reflective Practice in AI-Supported Science Learning</h1>
 
-<img src="assets/images/LLMDataSensemaking1.png" alt="Research Framework" class="full-width-image">
+<img src="/images/LLMDataSensemaking1.png" alt="Research Framework" class="full-width-image">
 
 <div class="research-content">
 
