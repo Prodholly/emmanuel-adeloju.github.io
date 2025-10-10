@@ -20,18 +20,18 @@ header {
 
 /* Make content section wider */
 section {
-  width: calc(100% - 280px);
+  width: calc(100% - 340px);
   float: right;
   padding-right: 30px;
   padding-left: 20px;
-  margin-left: 260px;
+  margin-left: 320px;
 }
 
 /* Full-width content for research page */
 body.research-page section {
-  width: calc(100% - 290px);
+  width: calc(100% - 350px);
   max-width: none;
-  margin-left: 270px;
+  margin-left: 330px;
   padding-left: 20px;
   padding-right: 40px;
 }
