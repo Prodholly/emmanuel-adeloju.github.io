@@ -7,7 +7,7 @@ permalink: /research/
 # LLM-Mediated Data Sensemaking: Exploring Teachers' Reflective Practice in AI-Supported Science Learning
 
 ![Research Framework]({{ "/images/LLMDataSensemaking1.png" | relative_url }})
-{: style="width: 100%; margin: 2em 0;"}
+{: style="width: 120%; max-width: 120%; margin-left: -10%; margin-right: -10%; margin-top: 2em; margin-bottom: 2em;"}
 
 ## Introduction
 
