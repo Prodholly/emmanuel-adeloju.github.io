@@ -19,7 +19,7 @@ As large language models (LLMs) enter classrooms, teachers are increasingly chal
 
 ## Research Design and Methodology
 
-This study employs a qualitative comparative case study with three in-service high school science teachers, exploring their experiences through three stages: **Teachers-as-Learners**, **Teachers-as-Designers**, and **Teachers-as-Implementers**. In each stage, teachers interact with an LLM-mediated data analysis pipeline (Figure 1) that scaffolds the data sensemaking process, from data collection to visualization, through iterative prompting and decision-making. Teachers collaborate with the LLM to analyze datasets of their choice, applying techniques such as zero-shot, few-shot, and chain-of-thought prompting. At each stage, teachers develop and apply evaluation and decision criteria to determine whether to accept, reject, or revise the model's outputs. Data sources include semi-structured interviews, surveys, reflection journals, AI chat logs, and co-design artifacts. This study design foregrounds reflective practice—reflection-for-action, in-action, and on-action—as teachers use their emerging knowledge of working with LLM for data sensemaking to inform their pedagogical practice and support for their students.
+This study employs a qualitative comparative case study with three in-service high school science teachers, exploring their experiences through three stages: **Teachers-as-Learners**, **Teachers-as-Designers**, and **Teachers-as-Implementers**. In each stage, teachers interact with an LLM-mediated data analysis pipeline that scaffolds the data sensemaking process, from data collection to visualization, through iterative prompting and decision-making. Teachers collaborate with the LLM to analyze datasets of their choice, applying techniques such as zero-shot, few-shot, and chain-of-thought prompting. At each stage, teachers develop and apply evaluation and decision criteria to determine whether to accept, reject, or revise the model's outputs. Data sources include semi-structured interviews, surveys, reflection journals, AI chat logs, and co-design artifacts. This study design foregrounds reflective practice: reflection-for-action, in-action, and on-action, as teachers use their emerging knowledge of working with LLM for data sensemaking to inform their pedagogical practice and support for their students.
 
 ## Analysis and Expected Outcomes
 
@@ -27,4 +27,4 @@ This study combines thematic analysis of teacher reflections and interviews with
 
 ---
 
-[← Back to Home]({{ "/" | relative_url }})
+[← Back to Home]({{ "https://prodholly.github.io/emmanuel-adeloju.github.io/" | relative_url }})
