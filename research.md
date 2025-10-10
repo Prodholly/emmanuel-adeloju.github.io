@@ -4,6 +4,10 @@ title: Ongoing Research
 permalink: /research/
 ---
 
+<script>
+document.body.classList.add('research-page');
+</script>
+
 # LLM-Mediated Data Sensemaking: Exploring Teachers' Reflective Practice in AI-Supported Science Learning
 
 ![Research Framework]({{ "/images/LLMDataSensemaking1.png" | relative_url }})
