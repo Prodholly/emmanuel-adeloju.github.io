@@ -11,7 +11,7 @@ document.body.classList.add('research-page');
 # LLM-Mediated Data Sensemaking: Exploring Teachers' Reflective Practice in AI-Supported Science Learning
 
 ![Research Framework]({{ "/images/LLMDataSensemaking1.png" | relative_url }})
-{: style="width: 60%; max-width: 60%; display: block; margin: 2em 20% 2em 20%; height: auto;"}
+{: style="width: 80%; max-width: 80%; display: block; margin: 2em 10% 2em 10%; height: auto;"}
 
 ## Introduction
 
