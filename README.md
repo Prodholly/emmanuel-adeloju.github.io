@@ -32,6 +32,14 @@ Osun State University, Nigeria
 
 ---
 
+## Ongoing Project
+
+[![LLM-Mediated Data Sensemaking Research](images/LLMDataSensemaking2.png)](https://prodholly.github.io/emmanuel-adeloju.github.io/research/)
+
+[**Adeloju, E.** (2025). *LLM-mediated data sensemaking: Exploring teachers' reflective practice in AI-supported science learning.* [Manuscript in preparation].](https://prodholly.github.io/emmanuel-adeloju.github.io/research/)
+
+---
+
 ## Latest Projects
 
 ### Optimization Methods in Support Vector Machines (from scratch)
