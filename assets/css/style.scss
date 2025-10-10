@@ -1,0 +1,72 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Make the wrapper full width */
+.wrapper {
+  width: 95%;
+  max-width: none;
+  margin: 0 auto;
+}
+
+/* Adjust sidebar width */
+header {
+  width: 250px;
+  float: left;
+  position: fixed;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+/* Make content section wider */
+section {
+  width: calc(100% - 280px);
+  float: right;
+  padding-right: 30px;
+  margin-left: 280px;
+}
+
+/* Full-width content for research page */
+body.research-page section {
+  width: calc(100% - 300px);
+  max-width: none;
+  margin-left: 300px;
+  padding-right: 40px;
+}
+
+/* Make images responsive within the wider content */
+body.research-page img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Ensure text flows nicely in wider layout */
+body.research-page p {
+  max-width: none;
+  line-height: 1.8;
+}
+
+/* Responsive: stack on mobile */
+@media print, screen and (max-width: 960px) {
+  .wrapper {
+    width: auto;
+  }
+  
+  header, section {
+    float: none;
+    position: static;
+    width: auto;
+    margin-left: 0;
+  }
+  
+  header {
+    padding-right: 320px;
+  }
+  
+  section {
+    border: 1px solid #e5e5e5;
+    border-width: 1px 0;
+    padding: 20px 0;
+    margin: 0 0 20px;
+  }
+}
