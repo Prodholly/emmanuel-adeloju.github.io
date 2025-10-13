@@ -1,6 +1,10 @@
 # Welcome to my homepage ;)
 
+It is crazy considering how I got into AI research. From teaching high school mathematics, chemistry, and biology, to earning a BSc in Biochemistry, publishing empirical toxicology research, and co-authoring a chapter in a food biochemistry book, to conducting research in forensic hematoglogy during my MSc in Cell Biology and Genetics (Molecular Biology) and now to investigating how artificial intelligence transforms learning, my journey seems unconventional. But as Steve Jobs said, "the people who are crazy enough to think they can change the world, are the ones who do."
+
 I am Emmanuel Adeloju, a third-year PhD student in the Learning Literacies and Technologies program at Arizona State University, where I am advised by Dr. Michelle Jordan and Dr. Punya Mishra. My research investigates how teachers and students interact with Large Language Models (LLMs) in authentic K–12 science learning contexts, focusing on **LLM-mediated data sensemaking**. Through mixed-methods user studies, I investigate how teachers develop expertise in facilitating student use of LLMs, translating their pedagogical reflections into evaluation frameworks that assess model performance beyond traditional benchmarks. My work bridges human-computer interaction and LLM evaluation research by examining trust, interpretability, and usability of LLM systems through the lens of domain experts (teachers) who guide novice users (students) in data sensemaking. This research contributes to understanding how humans collaborate with AI tools, how practitioners develop quality criteria for AI outputs in specialized domains, and how to design responsible AI systems that align with pedagogical goals and support meaningful learning. I have also presented research on machine learning for data validation, conducted educational program evaluations, and supported graduate instruction in data analysis, advancing my goal of evaluating AI systems that are responsive to human values and expertise.
+
+My trajectory, from biochemistry laboratories to science classrooms to human-centered AI research, has taught me one fundamental lesson: I can learn anything and adapt to any uncharted challenge.
 
 ---
 
@@ -109,11 +113,19 @@ member of the ASU community
 
 ## Selected Publications & Presentations
 
-**Adeloju, E.**, Jordan, M., & Meza-Torres, C. (2025, February 21). *Machine Learning for Validating Citizen Science Data: A Case Study with High School Students in Agri-Photovoltaics Project in the Sonoran Desert Region* [Conference presentation]. The Doctoral Council at the Teachers College (TCDC) Conference, Tempe, AZ, United States.
+(Other published work and conference presentations will be added on a dedicated page soon)
 
-Meza-Torres, C., & **Adeloju, E.** (2025, April 23-27). *Reimagining School-based Citizen Science for Sustainable Futures: K-12 teachers fostering visibility, believability, and meaningfulness* [Conference presentation]. In Weinberg, A. (chair), Education for Imagining and Advancing Preferred Planetary Futures. AERA Conference Denver, CO, United States.
+**Adeloju, E.**, Jordan, M., & Meza-Torres, C. (2025, February 21). Machine Learning for Validating Citizen Science Data: A Case Study with High School Students in Agri-Photovoltaics Project in the Sonoran Desert Region [Conference presentation]. The Doctoral Council at the Teachers College (TCDC) Conference, Tempe, AZ, United States.
 
-Jordan, M., Weinberg, A., **Adeloju, E.**, & Oster, N. (2024, Nov). *Formative Assessment Report #2*. ULRI Annual Research Symposium, Atlanta, GA.
+Meza-Torres, C., & **Adeloju, E**. (2025, April 23-27). Reimagining School-based Citizen Science for Sustainable Futures: K-12 teachers fostering visibility, believability, and meaningfulness [Conference presentation]. In Weinberg, A. (chair), Education for Imagining and Advancing Preferred Planetary Futures. AERA Conference Denver, CO, United States.
+
+Jordan, M., Weinberg, A., **Adeloju, E.**, & Oster, N. (2024, Nov). Formative Assessment Report #2. ULRI Annual Research Symposium, Atlanta, GA.
+
+Meza-Torres, C., Jordan, M., Zuiker, S., Jongewaard, R., **Adeloju, E.**, & Spreitzer, K. (2024, June). Examining Teacher Supports for Visibility, Believability, and Meaningfulness in Place-Based Citizen Science. In Proceedings of the 18th International Conference of the Learning Sciences-ICLS 2024 Proceedings.
+
+Ajayi, E. I., Molehin, O. R., Ajayi, O. O., **Adeloju, E. O.**, & Oladele, J. O. (2023). Application of chitosan-coated foods, fruits and vegetables on inflammation in metabesity. In Next Generation Nanochitosan (pp. 431-446). Academic Press.
+
+Oladele, J., Oyewole, O. I., Oyeleke, M. O., Adewale, O. O., & **Adeloju, O. E**. (2019). Annona muricata attenuates cadmium-induced oxidative stress and renal toxicity in Wistar rats. Journal of Bioscience and Applied Research, 5(4), 543-550.
 
 ---
 
