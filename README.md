@@ -10,7 +10,7 @@ My trajectory, from biochemistry laboratories to science classrooms to human-cen
 
 ## Education
 
-**PhD, Learning Literacies and Technology** | *Expected 2027*  
+**PhD, Learning Literacies and Technology** | *Expected May 2027*  
 Arizona State University, USA  
 Advisors: Dr. Michelle Jordan | Dr. Punya Mishra  
 - Dissertation research: Human-AI collaboration, AI evaluation in educational contexts, teacher-AI interaction design, LLM usability
