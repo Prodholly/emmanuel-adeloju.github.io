@@ -2,9 +2,15 @@
 
 It is crazy considering how I got into AI research. From teaching high school mathematics, chemistry, and biology, to earning a BSc in Biochemistry, publishing empirical toxicology research, and co-authoring a chapter in a food biochemistry book, to conducting research in forensic hematoglogy during my MSc in Cell Biology and Genetics (Molecular Biology) and now to investigating how artificial intelligence transforms learning, my journey seems unconventional. But as Steve Jobs said, "the people who are crazy enough to think they can change the world, are the ones who do."
 
-I am Emmanuel Adeloju, a third-year PhD student in the Learning Literacies and Technologies program at Arizona State University, where I am advised by Dr. Michelle Jordan and Dr. Punya Mishra. My research investigates how teachers and students interact with Large Language Models (LLMs) in authentic K–12 science learning contexts, focusing on **LLM-mediated data sensemaking**. Through mixed-methods user studies, I investigate how teachers develop expertise in facilitating student use of LLMs, translating their learning experience and reflections from the study into the data sensemaking practices in their classrooms. My work bridges human-AI interaction and LLM evaluation research by examining the evolution of teachers' understanding and practice in LLM-mediated data sensemaking and how the trust, interpretability, and usability of LLM systems impact their practice. This research contributes to understanding how teachers collaborate with LLMs in data-oriented pedagogical tasks, how they develop quality criteria for AI outputs, and how to design responsible AI systems that align with pedagogical goals and support meaningful data sensemaking. I have also presented research on machine learning for data validation, conducted educational program evaluations, and supported graduate instruction in data analysis, advancing my goal of evaluating AI systems that are responsive to human values and expertise.
+I am Emmanuel Adeloju, a third-year PhD student in the Learning Literacies and Technologies program at Arizona State University, where I am advised by Dr. Michelle Jordan and Dr. Punya Mishra. My research examines how K-12 science teachers develop expertise in facilitating student data sensemaking when using Large Language Models (LLMs), a question at the intersection of teacher learning, science education, and human-AI collaboration.
 
-My trajectory, from biochemistry laboratories to science classrooms to human-centered AI research, has taught me one fundamental lesson: I can learn anything and adapt to any uncharted challenge.
+Through mixed-methods research grounded in TPACK and reflective practice frameworks, I investigate how teachers' technological, pedagogical, and content knowledge evolves as they learn to integrate LLMs into authentic classroom contexts. My dissertation employs comparative case study methodology to trace teachers' learning trajectories from initial engagement with AI tools through collaborative lesson design to classroom implementation, examining what experiences shape their reflective practice and instructional decision-making.
+
+This work bridges learning sciences, human-computer interaction, and AI evaluation research. I am also interested in how the interpretability and explainability of AI systems, central concerns in my ongoing research on XAI for machine learning/LLM predictions, directly impact teachers' capacity to support meaningful student data sensemaking. My technical work auditing the faithfulness of LLM-generated explanations informs my understanding of what teachers need from AI systems to facilitate trustworthy, pedagogically sound data investigations.
+
+Beyond my dissertation, I have conducted research on machine learning for data validation in an agriphotovoltaics project, contributed to food biochemistry texbook, and supported graduate instruction in statistical analysis and data science methods. My broader research agenda focuses on designing and evaluating human-centered AI systems that are responsive to educators' expertise, align with pedagogical values, and support equitable learning opportunities in data-rich science classrooms.
+
+My trajectory, from biochemistry laboratories to science classrooms to education and human-centered AI research, has taught me one fundamental lesson: I can learn anything and adapt to any uncharted challenge.
 
 ---
 
@@ -41,22 +47,6 @@ Osun State University, Nigeria
 [![LLM-Mediated Data Sensemaking Research](images/LLMDataSensemaking2.png)](https://prodholly.github.io/emmanuel-adeloju.github.io/research/)
 
 [**Adeloju, E.** (2025). *LLM-mediated data sensemaking: Exploring teachers' reflective practice in AI-supported science learning.* [Manuscript in preparation].](https://prodholly.github.io/emmanuel-adeloju.github.io/research/)
-
----
-
-## Latest Projects
-
-### Optimization Methods in Support Vector Machines (from scratch)
-- Implemented and benchmarked primal vs. dual SVM formulations on high-dimensional data (784 features); evaluated hard-margin and soft-margin variants with regularization tuning (C = 1, 3, 5) to analyze generalization performance and kernel methods (Gaussian RBF) for non-linear decision boundaries
-
-### Bias-Variance Analysis in k-Nearest Neighbor Classification (from scratch)
-- Systematically evaluated k-NN performance across neighborhood sizes (k = 1, 3, 5, 7) to quantify bias-variance trade-off; analyzed overfitting patterns through training vs. test error comparison and implemented kernel-based k-NN extensions
-
-### Convergence Properties of Online Learning Algorithms (from scratch)
-- Analyzed Perceptron algorithm convergence under varying stopping criteria (80% vs. 95% accuracy thresholds) and learning rates (α = 0.15); evaluated impact of linear separability assumptions on classification performance in iterative weight update frameworks
-
-### Bayesian Decision Theory and Probabilistic Classifiers (from scratch)
-- Derived MAP decision rules from Bayes' theorem using continuous probability distributions (Gaussian likelihoods); compared generative (Bayesian) vs. discriminative (SVM, Perceptron) classification approaches, analyzing the role of priors and class-conditional distributions in optimal decision boundaries
 
 ---
 
